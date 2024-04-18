@@ -1,4 +1,4 @@
-Hello, Welcome to tic tace toe
+Hello, Welcome to tic tac toe
 - Left Mouse Click: Make a move.
 - 'G': Toggle game mode between AI and PvP.
 - 'R': Restart the game.
