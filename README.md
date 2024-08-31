@@ -1,4 +1,5 @@
-Install 'pygame' by opening command prompt and type "pip install pygame".
+Install 'pygame' by opening command prompt and type "pip install pygame", as well as install 'numpy' by typing "pip install numpy"
+
 
 
 Hello, Welcome to Tic Tac Toe
