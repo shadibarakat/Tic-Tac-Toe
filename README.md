@@ -1,3 +1,6 @@
+Install 'pygame' by opening command prompt and type "pip install pygame".
+
+
 Hello, Welcome to Tic Tac Toe
 - Left Mouse Click: Make a move.
 - 'G': Toggle game mode between AI and PvP.
